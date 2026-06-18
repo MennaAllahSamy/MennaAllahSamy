@@ -38,7 +38,6 @@ A Machine Learning Engineer and Data Scientist who turns data and deep learning 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
 </p>
 
-> _Edit this row to match exactly what you use — add/remove badges from [shields.io](https://shields.io)._
 
 
 
