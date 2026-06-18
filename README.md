@@ -42,12 +42,6 @@ A Machine Learning Engineer and Data Scientist who turns data and deep learning 
 
 
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MennaAllahSamy&show_icons=true&theme=default&hide_border=true" alt="Menna's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MennaAllahSamy&layout=compact&theme=default&hide_border=true" alt="Top languages">
-</p>
 
 ### 📫 Reach me
 
