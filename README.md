@@ -40,11 +40,7 @@ A Machine Learning Engineer and Data Scientist who turns data and deep learning 
 
 > _Edit this row to match exactly what you use — add/remove badges from [shields.io](https://shields.io)._
 
-### 🚀 What I'm working on
 
-- **Medical-imaging research** — corneal image-to-image translation with deep generative models (GANs &amp; diffusion)
-- **Alamein Model Hospital patient app** — Flutter app with Diagnosis, Visits / Care Journey, Treatment Plan, and Medicines features
-- **Teaching** — supporting Data Mining &amp; AI courses at AIU
 
 ### 📊 GitHub stats
 
